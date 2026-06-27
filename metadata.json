@@ -1,0 +1,6 @@
+{
+  "name": "Jeevan Parivartan",
+  "description": "Government Approved Rehabilitation Center in Lucknow, India offering a compassionate, scientifically grounded path to recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
